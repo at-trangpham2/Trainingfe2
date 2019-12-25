@@ -1,0 +1,50 @@
+
+p {
+  text-align: center;
+  color: #cccccc;
+}
+h2{
+    text-align: center;
+    font-weight: lighter;
+}
+form {
+  background: #f0f0f0;
+  width: 70%;
+
+  margin: auto;
+  padding: 1% 5% 1% 5%;
+  
+}
+input {
+  width: 45%;
+  height: 2em;
+  margin-right: 4%;
+  
+}
+
+select {
+  background-color: white;
+  height: 2.5em;
+  margin-right: 4%;
+  width: 45%;
+}
+
+textarea {
+  width: 95%;
+  height: 6em;
+  
+  
+}
+button{
+    width: 95%;
+    height: 2.5em;
+    
+    background-color: rgb(5, 15, 48);
+    color: white;
+    font-size: 18px;
+}
+.margin{
+    margin: 1em;
+   
+    
+}
